@@ -1,78 +1,62 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Elsayed-Ramadan100" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=42D8A4&center=true&vCenter=true&width=500&lines=Hello,+I'm+Elsayed+Ramadan;Creative+Web+Developer;Building+Digital+Experiences" alt="Typing SVG" />
+</div>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Elsayed+Ramadan+👋;Frontend+Web+Developer;Crafting+Clean+%26+Responsive+UI&center=true&size=30">
+<div align="center">
+  <a href="https://www.linkedin.com/in/elsayed-ramadan-407626261" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</h1>
+  <a href="https://www.instagram.com/elsayed_ramadan_ghaith" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
 
-<h3 align="center">
-  Passionate Frontend Developer | HTML • CSS • JavaScript
-</h3>
+<br />
+
+<img align="right" width="300" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0190af89dd2e9e4b/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313533383336313039312f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67" alt="Coding Illustration" style="display: none;" /> 
+
+<h3 align="center">👋 About Me</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/elsayed-ramadan-407626261">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/elsayed_ramadan_ghaith/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:elseman100@gmail.com">
-    <img src="https://img.shields.io/badge/Email-333333?style=flat&logo=gmail&logoColor=white"/>
-  </a>
+ I am a passionate <strong>Front-End Web Developer</strong> based in Egypt. I specialize in building responsive, user-friendly websites with clean code and modern designs. My focus is on turning ideas into interactive reality using core web technologies.
 </p>
-
----
-
-## 👨‍💻 About Me
-
-I’m **Elsayed Ramadan**, a dedicated **Frontend Web Developer** focused on building clean, modern, and responsive user interfaces.
-
-- 💻 Strong foundation in **HTML, CSS, JavaScript**
-- 🎯 Passionate about **UI/UX and performance**
-- 📚 Constantly learning and improving through real projects
-- 🚀 Turning ideas into interactive web experiences
-
-I believe great interfaces are not just built — they’re **crafted**.
-
----
-
-## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,vscode,github" />
+ 🔭 I’m currently working on <strong>Responsive Web Projects</strong><br>
+ 🌱 I’m currently sharpening my skills in <strong>JavaScript Algorithms</strong><br>
+ ⚡ Fun fact: <strong>I treat every line of code as a piece of art.</strong>
 </p>
 
----
+<br />
 
-## 📊 GitHub Stats
+<h3 align="center">💻 Tech Stack & Tools</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,bootstrap" />
+</div>
 
-<p align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Elsayed-Ramadan100&show_icons=true&theme=react&hide_border=true" />
-  <br><br>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elsayed-Ramadan100&layout=compact&theme=react&hide_border=true" />
-</p>
+<br />
+<br />
 
----
-
-## 📂 Projects
-
-<p align="center">
-  <a href="https://github.com/Elsayed-Ramadan100?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20My%20Projects-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<h3 align="center">📊 GitHub Analytics</h3>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F1F1F1" />
   </a>
-</p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
+  </a>
+</div>
 
----
+<br />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=42D8A4" width="100%" />
+</div>
 
-## 🤝 Let’s Connect
+<br />
 
-If you’re looking for a frontend developer who cares about **details, performance, and clean code** —  
-I’d love to connect.
-
-📫 **Email:** elseman100@gmail.com  
-🔗 **LinkedIn:** [Elsayed Ramadan](https://www.linkedin.com/in/elsayed-ramadan-407626261)
-
----
-
-⭐ *Feel free to explore my repositories and follow my journey.*
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" width="100%" />
+</div>
