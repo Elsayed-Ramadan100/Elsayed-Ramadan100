@@ -1,71 +1,78 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Elsayed-Ramadan100">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Elsayed-Ramadan100" />
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Elsayed+Ramadan+👋;Frontend+Web+Developer;HTML+•+CSS+•+JavaScript&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Elsayed+Ramadan+👋;Frontend+Web+Developer;Crafting+Clean+%26+Responsive+UI&center=true&size=30">
   </a>
 </h1>
 
-<h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/elsayed-ramadan-407626261" title="LinkedIn">
-      <img width="22" src="images/linkedin.svg"> LinkedIn
-    </a>
-  </code>
-  <code>
-    <a href="https://www.instagram.com/elsayed_ramadan_ghaith/" title="Instagram">
-      <img width="22" src="images/instagram.svg"> Instagram
-    </a>
-  </code>
-</h5>
-
-<br>
+<h3 align="center">
+  Passionate Frontend Developer | HTML • CSS • JavaScript
+</h3>
 
 <p align="center">
-  أنا <strong>السيد رمضان</strong> — Frontend Web Developer  
-  <br><br>
-  💻 اتعلمت وبشتغل بـ <strong>HTML, CSS, JavaScript</strong>  
-  <br>
-  🚀 مهتم ببناء واجهات ويب نظيفة ومتجاوبة  
-  <br>
-  📚 بتعلم باستمرار وبتطبق عملي على مشاريع حقيقية  
-  <br><br>
-  📫 تواصل معايا:
-  <a href="mailto:elseman100@gmail.com">elseman100@gmail.com</a>
+  <a href="https://www.linkedin.com/in/elsayed-ramadan-407626261">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/elsayed_ramadan_ghaith/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:elseman100@gmail.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=flat&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
-<hr>
+---
 
-<h2 align="center">🔥 Skills & Tools 🔥</h2>
-<br>
+## 👨‍💻 About Me
+
+I’m **Elsayed Ramadan**, a dedicated **Frontend Web Developer** focused on building clean, modern, and responsive user interfaces.
+
+- 💻 Strong foundation in **HTML, CSS, JavaScript**
+- 🎯 Passionate about **UI/UX and performance**
+- 📚 Constantly learning and improving through real projects
+- 🚀 Turning ideas into interactive web experiences
+
+I believe great interfaces are not just built — they’re **crafted**.
+
+---
+
+## 🛠️ Tech Stack
+
 <p align="center">
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS3" height="25" src="images/css.svg"></code>
-  <code><img title="JavaScript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="VS Code" height="25" src="images/vscode.png"></code>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,vscode,github" />
 </p>
 
-<hr>
+---
 
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
-<br>
+## 📊 GitHub Stats
+
 <p align="center">
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=Elsayed-Ramadan100&show_icons=true&theme=react&hide_border=true" />
   <br><br>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elsayed-Ramadan100&layout=compact&theme=react&hide_border=true" />
 </p>
 
-<hr>
+---
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
+## 📂 Projects
+
 <p align="center">
   <a href="https://github.com/Elsayed-Ramadan100?tab=repositories">
-    🔎 Show My Projects
+    <img src="https://img.shields.io/badge/View%20My%20Projects-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-<!--
-✨ Profile README for Elsayed-Ramadan100
--->
+---
+
+## 🤝 Let’s Connect
+
+If you’re looking for a frontend developer who cares about **details, performance, and clean code** —  
+I’d love to connect.
+
+📫 **Email:** elseman100@gmail.com  
+🔗 **LinkedIn:** [Elsayed Ramadan](https://www.linkedin.com/in/elsayed-ramadan-407626261)
+
+---
+
+⭐ *Feel free to explore my repositories and follow my journey.*
