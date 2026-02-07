@@ -15,7 +15,8 @@
   <a href="https://www.instagram.com/elsayed_ramadan_ghaith" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="mailto:elsayedramadan@example.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:elsayedramadan@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
 
@@ -48,7 +49,7 @@
       <strong>Portfolio Website</strong>
       <br />
       <p>Personal portfolio showing my skills.</p>
-      <a href="https://github.com/Elsayed-Ramadan100">
+      <a href="https://github.com/Elsayed-Ramadan100?tab=repositories">
         <img src="https://img.shields.io/badge/View_Code-black?style=flat-square&logo=github" alt="View Code" />
       </a>
     </td>
@@ -58,7 +59,7 @@
       <strong>E-Commerce UI</strong>
       <br />
       <p>Modern shopping cart interface.</p>
-      <a href="https://github.com/Elsayed-Ramadan100">
+      <a href="https://github.com/Elsayed-Ramadan100?tab=repositories">
         <img src="https://img.shields.io/badge/View_Code-black?style=flat-square&logo=github" alt="View Code" />
       </a>
     </td>
@@ -68,7 +69,7 @@
       <strong>Dashboard App</strong>
       <br />
       <p>Data visualization using JS.</p>
-      <a href="https://github.com/Elsayed-Ramadan100">
+      <a href="https://github.com/Elsayed-Ramadan100?tab=repositories">
         <img src="https://img.shields.io/badge/View_Code-black?style=flat-square&logo=github" alt="View Code" />
       </a>
     </td>
@@ -81,28 +82,21 @@
 <div align="center">
   <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="160" src="https://github-readme-stats.vercel.app/api?username=elsayed-ramadan100&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="Elsayed's Stats" />
+      <img height="160" src="https://github-readme-stats.vercel.app/api?username=Elsayed-Ramadan100&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" alt="Elsayed's GitHub Stats" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsayed-ramadan100&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="Top Languages" />
+      <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elsayed-Ramadan100&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true" alt="Elsayed's Top Languages" />
     </a>
   </p>
 </div>
 
 <div align="center">
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=elsayed-ramadan100&theme=tokyonight&background=0D1117&hide_border=true&ring=00f260&currStreakLabel=00f260" alt="Streak Stats" />
+    <img src="https://streak-stats.demolab.com/?user=Elsayed-Ramadan100&theme=tokyonight&background=0D1117&hide_border=true&ring=00f260&currStreakLabel=00f260" alt="Streak Stats" />
   </a>
 </div>
 
 <br />
-
-<div align="center">
-  <h3>👀 Profile Visitors</h3>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FElsayed-Ramadan100&count_bg=%2300F260&title_bg=%230D1117&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits"/>
-</div>
-
-<br /><br />
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Elsayed-Ramadan100&label=Profile%20Views&color=00f260&style=flat" alt="Visitor Count" />
