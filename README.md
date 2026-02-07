@@ -39,10 +39,40 @@
 
 <br />
 
-<h3 align="center">📊 GitHub Activity</h3>
+<h3 align="center">📊 GitHub Stats & Activity</h3>
+
 <div align="center">
-  <img src="https://metrics.lecoq.io/Elsayed-Ramadan100?template=classic&base.header=0&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&config.timezone=Africa%2FCairo" width="100%" alt="Elsayed Stats" />
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Elsayed-Ramadan100&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Elsayed's GitHub Stats" width="48%" />
+
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elsayed-Ramadan100&theme=radical&hide_border=true" alt="Elsayed's GitHub Streak" width="48%" />
+
 </div>
+
+<br>
+
+<div align="center">
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elsayed-Ramadan100&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+
+  <!-- Extra Activity Calendar -->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Elsayed-Ramadan100&theme=react-dark&area=true&hide_border=true" alt="Activity Graph" width="48%" />
+
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Badges -->
+  <img src="https://img.shields.io/badge/Followers-100-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-Active-brightgreen?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Repositories-50-orange?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Stars-⭐-yellow?style=for-the-badge" />
+</div>
+
 
 <br /><br />
 
