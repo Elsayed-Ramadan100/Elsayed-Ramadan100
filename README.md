@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,00f260,0575E6&height=250&section=header&text=Elsayed%20Ramadan&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,00f260,0575E6&height=250&section=header&text=Elsayed%20Ramadan&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" alt="Header Wave" />
 </div>
 
 <div align="center">
@@ -15,8 +15,7 @@
   <a href="https://www.instagram.com/elsayed_ramadan_ghaith" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="mailto:elsayedramadan@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:elsayedramadan@example.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
 
@@ -35,7 +34,7 @@
 
 <div align="center">
   <h3>🛠️ Languages & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode,figma&theme=dark" alt="Tech Stack Icons" />
 </div>
 
 <br /><br />
@@ -49,8 +48,8 @@
       <strong>Portfolio Website</strong>
       <br />
       <p>Personal portfolio showing my skills.</p>
-      <a href="https://github.com/Elsayed-Ramadan100?tab=repositories">
-        <img src="https://img.shields.io/badge/View_Code-black?style=flat-square&logo=github" />
+      <a href="https://github.com/Elsayed-Ramadan100">
+        <img src="https://img.shields.io/badge/View_Code-black?style=flat-square&logo=github" alt="View Code" />
       </a>
     </td>
     <td align="center" width="33%">
@@ -59,8 +58,8 @@
       <strong>E-Commerce UI</strong>
       <br />
       <p>Modern shopping cart interface.</p>
-      <a href="https://github.com/Elsayed-Ramadan100?tab=repositories">
-        <img src="https://img.shields.io/badge/View_Code-black?style=flat-square&logo=github" />
+      <a href="https://github.com/Elsayed-Ramadan100">
+        <img src="https://img.shields.io/badge/View_Code-black?style=flat-square&logo=github" alt="View Code" />
       </a>
     </td>
     <td align="center" width="33%">
@@ -69,8 +68,8 @@
       <strong>Dashboard App</strong>
       <br />
       <p>Data visualization using JS.</p>
-      <a href="https://github.com/Elsayed-Ramadan100?tab=repositories">
-        <img src="https://img.shields.io/badge/View_Code-black?style=flat-square&logo=github" />
+      <a href="https://github.com/Elsayed-Ramadan100">
+        <img src="https://img.shields.io/badge/View_Code-black?style=flat-square&logo=github" alt="View Code" />
       </a>
     </td>
   </tr>
@@ -82,25 +81,24 @@
 <div align="center">
   <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="160" src="https://github-readme-stats.vercel.app/api?username=Elsayed-Ramadan100&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+      <img height="160" src="https://github-readme-stats.vercel.app/api?username=Elsayed-Ramadan100&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Elsayed's GitHub Stats" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elsayed-Ramadan100&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+      <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elsayed-Ramadan100&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Elsayed's Top Languages" />
     </a>
   </p>
 </div>
 
 <div align="center">
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Elsayed-Ramadan100&theme=tokyonight&background=0D1117&hide_border=true&ring=00f260&currStreakLabel=00f260" />
+    <img src="https://streak-stats.demolab.com/?user=Elsayed-Ramadan100&theme=tokyonight&background=0D1117&hide_border=true&ring=00f260&currStreakLabel=00f260" alt="Elsayed's Streak Stats" />
   </a>
 </div>
 
 <br /><br />
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Elsayed-Ramadan100/count.svg" alt="Visitor Count" />
-  <p>Visitors Count</p>
+  <img src="https://komarev.com/ghpvc/?username=Elsayed-Ramadan100&label=Profile%20Views&color=00f260&style=flat" alt="Visitor Count" />
   <br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0575E6,00f260,0D1117&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0575E6,00f260,0D1117&height=100&section=footer" width="100%" alt="Footer Wave" />
 </div>
