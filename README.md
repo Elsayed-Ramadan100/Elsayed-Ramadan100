@@ -81,18 +81,25 @@
 <div align="center">
   <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="160" src="https://github-readme-stats.vercel.app/api?username=Elsayed-Ramadan100&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Elsayed's GitHub Stats" />
+      <img height="160" src="https://github-readme-stats.vercel.app/api?username=elsayed-ramadan100&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="Elsayed's Stats" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elsayed-Ramadan100&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Elsayed's Top Languages" />
+      <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsayed-ramadan100&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="Top Languages" />
     </a>
   </p>
 </div>
 
 <div align="center">
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Elsayed-Ramadan100&theme=tokyonight&background=0D1117&hide_border=true&ring=00f260&currStreakLabel=00f260" alt="Elsayed's Streak Stats" />
+    <img src="https://streak-stats.demolab.com/?user=elsayed-ramadan100&theme=tokyonight&background=0D1117&hide_border=true&ring=00f260&currStreakLabel=00f260" alt="Streak Stats" />
   </a>
+</div>
+
+<br />
+
+<div align="center">
+  <h3>👀 Profile Visitors</h3>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FElsayed-Ramadan100&count_bg=%2300F260&title_bg=%230D1117&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits"/>
 </div>
 
 <br /><br />
