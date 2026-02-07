@@ -44,10 +44,10 @@
 <div align="center">
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Elsayed-Ramadan100&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Elsayed's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Elsayed-Ramadan100&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Elsayed's GitHub Stats" width="48%" />
 
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elsayed-Ramadan100&theme=radical&hide_border=true" alt="Elsayed's GitHub Streak" width="48%" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elsayed-Ramadan100&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 
 </div>
 
@@ -55,11 +55,8 @@
 
 <div align="center">
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elsayed-Ramadan100&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-
-  <!-- Extra Activity Calendar -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Elsayed-Ramadan100&theme=react-dark&area=true&hide_border=true" alt="Activity Graph" width="48%" />
+  <!-- Activity Calendar -->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Elsayed-Ramadan100&theme=react-dark&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 
 </div>
 
@@ -72,6 +69,7 @@
   <img src="https://img.shields.io/badge/Repositories-50-orange?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Stars-⭐-yellow?style=for-the-badge" />
 </div>
+
 
 
 <br /><br />
