@@ -20,13 +20,14 @@
   </a>
 </div>
 
-<br />
+<br /><br />
 
 <div align="center">
   <h3>👨‍💻 About Me</h3>
   <p width="600px">
     I am a creative <strong>Front-End Developer</strong> based in Egypt. <br />
     I specialize in building responsive, high-performance web applications using modern technologies.<br/>
+    My goal is to provide the best user experience with clean and efficient code.
   </p>
 </div>
 
@@ -37,78 +38,59 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode,figma&theme=dark" alt="Tech Stack Icons" />
 </div>
 
-<br />
-
-<h3 align="center">📊 GitHub Stats & Activity</h3>
-
-<div align="center">
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Elsayed-Ramadan100&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Elsayed's GitHub Stats" width="48%" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elsayed-Ramadan100&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-  <!-- Activity Calendar -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Elsayed-Ramadan100&theme=react-dark&area=true&hide_border=true" alt="Activity Graph" width="100%" />
-
-</div>
-
-<br>
-
-<div align="center">
-  <!-- Badges -->
-  <img src="https://img.shields.io/badge/Followers-100-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Commits-Active-brightgreen?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/Repositories-50-orange?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Stars-⭐-yellow?style=for-the-badge" />
-</div>
-
-
-
 <br /><br />
 
-<h3 align="center">📂 Featured Projects</h3>
+<!-- <h3 align="center">📂 Featured Projects</h3>
 <table align="center" border="0">
   <tr>
     <td align="center" width="33%">
-      <img src="https://via.placeholder.com/300x150/111/fff?text=Wasla+Telecom" width="100%" style="border-radius: 10px" alt="Project 1" />
+      <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" width="100%" style="border-radius: 10px" alt="Project 1" />
       <br />
-      <strong>Wasla Telecom</strong>
+      <strong>Portfolio Website</strong>
       <br />
-      <a href="https://github.com/Elsayed-Ramadan100/Wasla-telecom">
-        <img src="https://img.shields.io/badge/View_Code-success?style=flat-square&logo=github" alt="View Code" />
+      <p>Personal portfolio showing my skills.</p>
+      <a href="https://github.com/Elsayed-Ramadan100?tab=repositories">
+        <img src="https://img.shields.io/badge/View_Code-black?style=flat-square&logo=github" alt="View Code" />
       </a>
     </td>
     <td align="center" width="33%">
-      <img src="https://via.placeholder.com/300x150/111/fff?text=Hamish" width="100%" style="border-radius: 10px" alt="Project 2" />
+      <img src="https://images.unsplash.com/photo-1556742049-0cfed4f7a07d?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" width="100%" style="border-radius: 10px" alt="Project 2" />
       <br />
-      <strong>Hamish</strong>
+      <strong>E-Commerce UI</strong>
       <br />
-      <a href="https://github.com/Elsayed-Ramadan100/Hamish">
-        <img src="https://img.shields.io/badge/View_Code-success?style=flat-square&logo=github" alt="View Code" />
+      <p>Modern shopping cart interface.</p>
+      <a href="https://github.com/Elsayed-Ramadan100?tab=repositories">
+        <img src="https://img.shields.io/badge/View_Code-black?style=flat-square&logo=github" alt="View Code" />
       </a>
     </td>
     <td align="center" width="33%">
-      <img src="https://via.placeholder.com/300x150/111/fff?text=Front-End+Mentor" width="100%" style="border-radius: 10px" alt="Project 3" />
+      <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" width="100%" style="border-radius: 10px" alt="Project 3" />
       <br />
-      <strong>Front-End Mentor</strong>
+      <strong>Dashboard App</strong>
       <br />
-      <a href="https://github.com/Elsayed-Ramadan100/Front-End-Mentor">
-        <img src="https://img.shields.io/badge/View_Code-success?style=flat-square&logo=github" alt="View Code" />
+      <p>Data visualization using JS.</p>
+      <a href="https://github.com/Elsayed-Ramadan100?tab=repositories">
+        <img src="https://img.shields.io/badge/View_Code-black?style=flat-square&logo=github" alt="View Code" />
       </a>
     </td>
   </tr>
-</table>
+</table> -->
+
+<br /><br />
+
+<h3 align="center">📊 GitHub Analytics</h3>
+
+
+<div align="center">
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Elsayed-Ramadan100&theme=tokyonight&background=0D1117&hide_border=true&ring=00f260&currStreakLabel=00f260" alt="Streak Stats" />
+  </a>
+</div>
 
 <br />
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Elsayed-Ramadan100&label=Profile%20Views&color=00f260&style=flat" alt="Visitor Count" />
+  <br />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0575E6,00f260,0D1117&height=100&section=footer" width="100%" alt="Footer Wave" />
 </div>
